@@ -1,6 +1,6 @@
-=================================================================
-Getting information out molecular dynamics data: a simple example
-=================================================================
+====================================================================
+Getting information out of molecular dynamics data: a simple example
+====================================================================
 
 This repository contains some example code illustrating how one
 can write efficient analysis classes that collect timeseries data for each
