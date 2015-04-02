@@ -17,5 +17,5 @@ using::
 
 The notebook shows how to leverage using the efficient HDF5 file format with
 pandas DataFrames, and gives a very short summary of some of the powerful
-features of DataFrames for asking questions of your data.
-
+features of DataFrames for asking questions of your data. The notebook can be viewed
+statically `here <http://nbviewer.ipython.org/github/Becksteinlab/timeseries-analysis-example/blob/master/IonBindingAnalysis.ipynb>`__.
